@@ -14,4 +14,4 @@ To test my skills out I'll be making this website without using any Frameworks a
 - **Skills**: The technologies and tools I am proficient with.
 - **Contact**: How to get in touch with me.
 
-To view the portfolio, visit [Harshvardhan's Portfolio](fevnax.github.io/capstone-2-personal-site).
+To view the portfolio, visit [Harshvardhan's Portfolio](fevnax.github.io/capstone-2).
