@@ -17,6 +17,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: coco;
 }
 
 html {
@@ -229,8 +230,13 @@ a {
   border-top: 1px solid black;
 }
 
-.footer-title {
+.footer-title, .footer-title > a {
+  font-family: coco-light;
   font-size: 0.9rem;
+}
+
+p, h4, a, .profile-span {
+  font-family: sans-serif;
 }
 
 /* MEDIA QUERIES */
